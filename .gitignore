@@ -1,0 +1,18 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+
+# Go build cache
+/bin/
+/pkg/
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment files
+.env
+students.db
